@@ -1,0 +1,22 @@
+{
+  "name": "flahscard_generator",
+  "version": "0.0.1",
+  "description": "Create flahcards to study for any subject",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roblester09/Flashcard-Generator.git"
+  },
+  "author": "Robert Lester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roblester09/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Roblester09/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
