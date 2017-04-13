@@ -1,6 +1,7 @@
-var BasicCard = function (question, answer) {
-    this.question = question;
-    this.answer = answer;
-};
+var basic = function(front, back) {
+    this.front = front;
+    this.back = back;
+}
 
-module.exports = BasicCard;
+// exports basic constructor
+module.exports = basic;
